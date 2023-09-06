@@ -86,3 +86,11 @@ $ cd DarkSide
 $ sudo bash install.sh
 $ python3 run.py
 ```
+Error: Get Pages site failed. Please verify that the repository has Pages enabled and configured to build using GitHub Actions, or consider exploring the `enablement` parameter for this action.
+25
+Error: HttpError: Not Found
+python mini.py
+help
+apk
+update(apk.
+
