@@ -1,0 +1,4 @@
+$ git clone https://github.com/Ultrasecurity/DarkSide
+$ cd DarkSide
+$ sudo bash install.sh
+$ python3 run.py
